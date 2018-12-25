@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+        <title>...</title>
+        <style type="text/css">
+            
+        </style>
+    </head>
+    <body>
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background: #fff; min-width: 340px; font-size: 20px; height: 700px; font-size: 1px; line-height: normal;">
+            <tr>
+                <td align="center" valign="top">
+                     <table cellpadding="0" cellspacing="0" border="0" width="600" class="table700" style="max-width: 700px; height: 100px; min-width: 320px; background: #fff; font-size: 20px; font-family: Verdana, Geneva, sans-serif;">
+                        <tr>
+                            <td>
+                                <img style="width: 300px; margin: 0 200px;" src="data:image/png;base64,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">
+                            </td>
+                        </tr>
+                        <tr style="width: 600px;">
+                            <td style="text-align: justify">
+                                Q – это платежная сеть нового поколения!
+                                Initiative Q создает современную платежную сеть, которая вбирает в себя лучшие идеи, инновации и технологии, разработанные за последние годы. Она обеспечит осуществление безопасных, быстрых и недорогих транзакций с использованием мировой валюты.<br><br>
+                                Хотите узнать больше?
+                                Для того чтобы присоединиться к нам и получить свою первую электронную валюту необходимо:<br><br>
+                                1. Зарегистрироваться<br>
+                                2. Прикрепить аккаунт к своему счету
+                            </td>
+                        </tr>
+                    </table>
+                    <table cellpadding="0" cellspacing="0" border="0" width="600" class="table700" style="max-width: 700px; height: 150px; min-width: 320px; background: #fff; font-size: 20px; font-family: Verdana, Geneva, sans-serif;">
+                        <tr style="height: 120px;">
+                            <td>
+                            </td>
+                            <td align="center" valign="center" style=" height: 50px;  ">
+                                <div valign="center" style="background-color: #6112fe; height: 35px; width: 300px; border-radius: 10px; padding-top: 15px;">
+                                    <a href="https://www.emailmeform.com/builder/form/0KwXoRc5bJz1D" title='Регистрация на Initiative Q' target='_blank' style="color: white; background-color: #6112fe; width: 250px; text-decoration: none;">Получить первую валюту</a>>
+                                </div>
+                            </td>
+                            <td>
+                            </td>
+                        </tr>
+                    </table>
+
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
